@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../first website"
+		},
+		{
+			"path": "../basic.css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "basic.css"
+	}
+}
